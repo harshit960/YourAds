@@ -175,6 +175,7 @@ export default function App() {
             </div>
           </div>
         </div>
+            <span className="font-semibold tracking-[0.03px] absolute right-0 text-4xl">YourAds</span>
         <div className="absolute w-[353px] h-6 top-[46px] left-[49px]">
           {/* <img className="absolute w-[21px] h-0.5 top-[21px] left-0" alt="Vector" src="vector-6.svg" /> */}
           <p className="absolute top-0 left-px [font-family:'Hind_Vadodara-SemiBold',Helvetica] font-normal text-[#331b3b] text-base tracking-[0.16px] leading-[normal]">
@@ -216,8 +217,10 @@ export default function App() {
         <div className="absolute w-[498px] h-[261px] top-[232px] left-[50px]">
           {/* <img className="absolute w-[291px] h-5 top-[235px] left-0.5" alt="Vector" src="vector-4.svg" /> */}
           <p className="absolute w-[498px] top-0 left-0 [font-family:'Hind_Vadodara-Bold',Helvetica] font-normal text-[#331b3b] text-[87px] tracking-[-0.87px] leading-[86.8px]">
-            <span className="font-bold tracking-[-0.76px]">We Help you </span>
-            <span className="[font-family:'Hind_Vadodara-Light',Helvetica] font-light tracking-[-0.76px]">
+            <span className="font-bold tracking-[-0.76px]">YourAds </span>
+            <br />
+            <span className="font-bold tracking-[-0.76px] text-3xl">We Help you </span>
+            <span className="[font-family:'Hind_Vadodara-Light',Helvetica] text-3xl font-light tracking-[-0.76px]">
               to grow your
               
               Business
@@ -275,9 +278,12 @@ YourAds
             <p className="absolute w-[439px] top-0 left-px [font-family:'Hind_Vadodara-Regular',Helvetica] font-normal text-white text-base tracking-[0.32px] leading-[25.5px]">
               Yourads.tech
             <div className="div">Yourads.social@gmail.com</div>
+            <div className="div">admin@yourads.tech</div>
+            <div className="div">NIT Jamshedpur</div>
+            <div className="div">Adityapur</div>
+            <div className="div">Jamshedpur - 831014</div>
             </p>
             <div className="absolute top-[123px] left-0 [font-family:'Hind_Vadodara-SemiBold',Helvetica] font-semibold text-white text-base tracking-[0.32px] leading-[25.5px] whitespace-nowrap">
-              GET IN TOUCH
             </div>
           </div>
           <div className="absolute w-[263px] h-[52px] top-[296px] left-[50px] border border-solid border-white">
